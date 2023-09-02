@@ -1,2 +1,2 @@
 # Whack-A-Mole
-![images](https://github.com/Mani1881/Whack-A-Mole/assets/97738136/7d122079-dc86-4509-9996-2e76ef99dc18)
+![1538668651199](https://github.com/Mani1881/Whack-A-Mole/assets/97738136/37880072-18c2-416c-868c-d998f7f7404a)
